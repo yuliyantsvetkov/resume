@@ -27,6 +27,7 @@ Driven by the new technologies and a real solution provider in intense situation
 ##### # Vulnerability analyst/Automation engineer @ GoDaddy Inc. / Sucuri Security Inc.
 `November, 2014 - present:` **Remote, home office**
 Active researching the newest security vulnerabilities on the web and fighting the bad guys with the power of Open Source. Also and mainly automating the day-to-day tasks and the in-team repeating tasks via __Jenkins__ + __Python__ + __Elastic__ + __Mercurial__.
+
   - Maintainer of the team __Mercurial__ repositories.
   - Maintainer and active developer of the company __Jenkins__ automation.
   - Creator of __Selenium__ automation tools for active research.
@@ -34,6 +35,7 @@ Active researching the newest security vulnerabilities on the web and fighting t
 
 ##### # Automation engineer/Product developer @ Peer1 hosting Inc.
 `September, 2012 - November, 2014:` **Sofia, Bulgaria**
+
   - Initiator and creator of the __PCI-DSS v2.0__ company environemnt.
   - Mainanter of the whole __VMware__ Shazam infrastructure.
   - Creator of various __Kickstart__ server deployment recipes.
@@ -43,6 +45,7 @@ Active researching the newest security vulnerabilities on the web and fighting t
 ##### # Technical project manager/Team leader @ COMPTEL Corporation/Nokia
 `June, 2011 - September, 2012:` **Sofia, Bulgaria/Helsinki, Finland/Cairo, Egypt**
 Mainly responsible for leading а team of seven __Java__ and __Python__ developers for offline and online mediation for the prepaid and postpaid Internet services of Vodafone Egypt Telecom.
+
   - Completed deployment of 48 __SunOS__ servers with the company software that still handle more than one billion messages each day.
   - Conducted five on-site trainings of the post-support team Vodafone Egypt engineers.
   - Deployed the newest Comptel Corporation __TM__ software over 128 noodes.
