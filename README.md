@@ -1,15 +1,11 @@
 # Resume of Yuliyan Tsvetkov
 ### Linux System Administrator / Automation and Security engineer
+
 > `e-mail:` yuliyan.tsvetkov@gmail.com
-
 > `linkedin:` https://www.linkedin.com/in/yuliyantsvetkov/
-
 > `twitter:` https://twitter.com/yuliyantsvetkov
-
 > `github:` https://github.com/yuliyantsvetkov
-
 > `phone:` +359 888 755 665
-
 > `location:` Sofia, Bulgaria
 
 --------
@@ -61,8 +57,10 @@ Supported huge amount of RHEL 5/6 Linux HP DL360 Gen 4 servers that are still ha
 ##### # Linux System Administrator @ TravelStoreMaker/Gallileo Inc.
 ``
   
-### Technologies used:
-that I love to use and explore:
+### Technologies and software
+
+that I love to use and explore further:
+
 * __Linux__ - My first and only love...with OS.
 * __Jenkins__ - Automating tasks with the power of JRE and Open-source.
 * __AWS__ - Bringing products to the world and scaling as they grow.
