@@ -1,16 +1,20 @@
 # Resume of Yuliyan Tsvetkov
 ### Linux System Administrator / Automation and Security engineer
-
 > `e-mail:` yuliyan.tsvetkov@gmail.com
+
 > `linkedin:` https://www.linkedin.com/in/yuliyantsvetkov/
+
 > `twitter:` https://twitter.com/yuliyantsvetkov
+
 > `github:` https://github.com/yuliyantsvetkov
+
 > `phone:` +359 888 755 665
+
 > `location:` Sofia, Bulgaria
 
 --------
-__Experienced Linux System Administrator with over ten years of experience with production environments.
-Driven by the new technologies and a real solution provider in intense situations with vast experience of automation and server security.__
+Experienced Linux System Administrator with over ten years of experience with production environments.
+Driven by the new technologies and a real solution provider in intense situations with vast experience of automation and server security.
 --------
 
 ## Volunteer at:
