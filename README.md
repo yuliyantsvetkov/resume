@@ -36,7 +36,7 @@ Active researching the newest security vulnerabilities on the web and fighting t
   - Creator of various __Kickstart__ server deployment recipes.
   - Migrated the old 'Cloud' company system to __OnApp__.
   - Migrated the company __VMware 5.1__ environment to __VMware 5.5__.
-  -
+
 ##### # Technical project manager/Team leader @ COMPTEL Corporation/Nokia
 `June, 2011 - September, 2012:` **Sofia, Bulgaria/Helsinki, Finland/Cairo, Egypt**
 Mainly responsible for leading а team of seven __Java__ and __Python__ developers for offline and online mediation for the prepaid and postpaid Internet services of Vodafone Egypt Telecom.
