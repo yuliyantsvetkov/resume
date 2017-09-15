@@ -62,13 +62,13 @@ Supported huge amount of RHEL 5/6 Linux HP DL360 Gen 4 servers that are still ha
 that I love to use and explore further:
 
 * __Linux__ - My first and only love...with OS.
-* __Jenkins__ - Automating tasks with the power of JRE and Open-source.
-* __AWS__ - Bringing products to the world and scaling as they grow.
+* __Jenkins__ - Automating tasks with the power of JAVA and Open-source.
+* __AWS__ - Bringing products to the world and scaling them as they grow.
 * __Python__ - Writing usable scripts and loving to report bugs of modules that I use.
 * __SaltStack__ - Making deploys easy and reliable.
-* __KVM__/__libvirt__/__VMware__/__Xen__- Virtualization made easy while the CLI being my friend.
+* __KVM__/__libvirt__/__VMware__/__Xen__- Virtualization made easy.
 * __Apache__/__NGINX__/__LightSpeedHTTPD__ - I'm giving the web apps. their online presence.
-* __HTML5/CSS__ - Whenever I need to find a malicious code or to show your PoC to the team I read and code it.
+* __HTML5/CSS__ - Whenever I need to find a malicious code or to show a PoC to the team I read and code it.
 * __Elastic__ - You need the data, I do the query.
 * __Grafana__ - I visualize what matters to the team and automate the scaling where its needed.
 * __MySQL__/__PostgreSQL__/__SQLite__ - No matter how much **TB** the database is I feel comfortable maintaining it.
