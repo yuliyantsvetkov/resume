@@ -1,7 +1,7 @@
 ﻿# Resume of Yuliyan Tsvetkov
 ## DevOps engineer
 
-**Experienced DevOps &System Administrator with over ten years of experience with production environments. Driven by the new technologies and a real solution provider in intense situations with vast experience of automation and infrastructure security.**
+**Experienced DevOps & System Administrator with over ten years of experience with production environments. Driven by the new technologies and a real solution provider in intense situations with vast experience of automation and infrastructure security.**
 
 * location: Sofia, Bulgaria (GMT +2)
 * e-mail: yuliyan.tsvetkov@gmail.com
