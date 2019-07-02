@@ -12,7 +12,7 @@
 ## Working experience
 
 ### DevOps engineer @ PayWorks GmbH
->May, 2018 - present (freelance contract for 6 months)
+>May, 2018 - present
 > Remote and Munich, Germany
 
 Terraforming the **AWS** infrastructure into sophisticated **Terraform IaC**. Building Jenkins jobs for **Terraform** in automation. Creating **Docker** containers for automated infrastructure deployment and managing **Rancher** clusters.
