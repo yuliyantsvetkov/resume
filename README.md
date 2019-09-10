@@ -15,12 +15,13 @@
 >May, 2018 - present
 > Remote and Munich, Germany
 
-Terraforming the **AWS** infrastructure into sophisticated **Terraform IaC**. Building Jenkins jobs for **Terraform** in automation. Creating **Docker** containers for automated infrastructure deployment and managing **Rancher** clusters.
+Terraforming the **AWS** infrastructure into sophisticated **Terraform IaC**. Building Jenkins jobs for **Terraform** in automation. Creating **Docker** containers and automating infrastructure deployments. Also managing **Rancher** **Cattle** and **k8s** **EKS** clusters
 
 - Migrated the test, stage and production **AWS** infrastructure to **Terraform**.
 - Worked closely with the team to satisfy all requirements for the **IaC** migration.
 - Wrote tons of documentation and created webcasts for internal use.
 - Seamlessly integrated **Terraform** with **Jenkins** jobs.
+- Worked with Helm charts for application deployment on **k8s** clusters.
 
 ### DevOps engineer/Vulnerability analyst @ Sucuri Security Inc. a.k.a. GoDaddy Inc.
 > November, 2014 - May, 2018
