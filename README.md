@@ -3,25 +3,28 @@
 
 **Experienced DevOps & System Administrator with over ten years of experience with production environments. Driven by the new technologies and a real solution provider in intense situations with vast experience of automation and infrastructure security.**
 
-* location: Sofia, Bulgaria (GMT +2)
+* location: Munich, Germany (GMT +1)
 * e-mail: yuliyan.tsvetkov@gmail.com
-* mobile: +359 888 755 665
+* mobile: +359 888 755 665 / +49 15 222 122 748
 * github: https://github.com/yuliyantsvetkov
-* no LinkedIn (too insecure)
+* https://www.linkedin.com/in/yuliyan-tsvetkov-346aa1174/ (not much info - too many HR bots)
 
 ## Working experience
 
-### DevOps engineer @ PayWorks GmbH
+### DevOps engineer @ PayWorks GmbH a.k.a. Visa Corp.
 >May, 2018 - present
 > Remote and Munich, Germany
 
-Terraforming the **AWS** infrastructure into sophisticated **Terraform IaC**. Building Jenkins jobs for **Terraform** in automation. Creating **Docker** containers and automating infrastructure deployments. Also managing **Rancher** **Cattle** and **k8s** **EKS** clusters
+Maintaining production EKS clusters. Participating in on-call rotations. Terraforming the **AWS** infrastructure into sophisticated **Terraform IaC**. Building Jenkins jobs for **Terraform** in automation. Creating **Docker** containers and automating infrastructure deployments. Also managing **Rancher** **Cattle** and **k8s** **EKS** clusters
 
 - Migrated the test, stage and production **AWS** infrastructure to **Terraform**.
 - Worked closely with the team to satisfy all requirements for the **IaC** migration.
 - Wrote tons of documentation and created webcasts for internal use.
+- Maintaining production and staging **EKS** clusters.
+- Supporting development teams with **microservices** development.
 - Seamlessly integrated **Terraform** with **Jenkins** jobs.
 - Worked with Helm charts for application deployment on **k8s** clusters.
+- Maintaining ElasticSearch clusters for centralized application logging.
 
 ### DevOps engineer/Vulnerability analyst @ Sucuri Security Inc. a.k.a. GoDaddy Inc.
 > November, 2014 - May, 2018
@@ -33,6 +36,7 @@ Mainly automating the day-to-day tasks and the in-team repeating tasks via **Jen
 -   Maintainer and active developer of the company  **Jenkins**  automation.
 -   Creator of  **Selenium**  automation tools for active research.
 -   Author of many security articles and blog posts for the latest web vulnerabilities.
+-   Maintaining ElasticSearch clusters for centralized application logging.
 
 ### DevOps engineer @ Cogeco Peer1 hosting 
 > September, 2012 - November, 2014
@@ -78,28 +82,31 @@ Supported huge amount of RHEL 5 & 6 Linux HP DL360 Gen 4 servers that are still 
 
 ## Skills and technologies
 
-Linux system administration
+DevOps and Linux system administration
 > Feeling comfortable with `root` at any time, but prefering `sudo`. Good reverse engineering skills and loving to optimize and automate the systems as much as possible. Never leaving a server without free disk space.
+> Comfortable working with any kind of automation, not afraid to learn new products as fast as they are developed.
 
 Programming:
+> Currently learning **Golang** for utilizing its power for CLIs.
 > Created many **Python** automation and monitoring scripts as well as sophisticated **Selenium** crawlers, and couple of AI bots for handling support cases automatically.
 > Fully comfortable with complex **Bash** scripts for small and even big tasks, but not preferred scripting language.
 
 Clouds:
 > **AWS** - knowing most of the **Amazon web services** products. Feeling comfortable with the **console** and the **CLI** as well.
 > **GCP** - Deployed many compute servers and some **Kubernetes** clusters. Still in active learning of the platform.
+> **Azure** - Provisioned and supported AKS clusters handling more than 3000 transactions per second. Worked with highly utilized HyperScale MSSQL databases and CDNs.
 > **DigitalOcean** - Always keeping droplets up & running with the lowest cost possible, but never sacrificing the performance.
 
 Provisioning:
 > **Ansible** - loving the playbooks there. Created a many provisioning playbooks and even using it for small monitoring system with the power of **Bash**.
 > **SaltStack** - Comfortable with the states, but I've not used it for the last year and some *remembering* is needed.
 
-Iac:
+IaC:
 > **Terraform** - almost an expert of modules, remote states, data sources and always following the best practices.
 
 Monitoring:
 > **Nagios**
-> **Prometheus**
+> **Prometheus** + **Grafana**
 
 Databases:
 > MySQL, PostgreSQL, MSSQL, MongoDB and SQLite3 production experience.
