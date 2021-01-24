@@ -74,9 +74,9 @@ Supported huge amount of RHEL 5 & 6 Linux HP DL360 Gen 4 servers that are still 
 -   Created multiple tools for backup and server rooms monitoring automation.
 
 ## Volunteer at
-- #### New Bulgarian University
+- #### New Bulgarian University (until 2018)
 	>  Teaching a class for Security of systems and data.
-- #### Center of Internet Security
+- #### Center of Internet Security (until 2012)
 	>  Developed the RHEL 5 & 6 security benchmarks for PCI-DSS v2.0 standard.
 
 
