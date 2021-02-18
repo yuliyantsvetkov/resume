@@ -79,7 +79,18 @@ Supported huge amount of RHEL 5 & 6 Linux HP DL360 Gen 4 servers that are still 
 - #### Center of Internet Security (until 2012)
 	>  Developed the RHEL 5 & 6 security benchmarks for PCI-DSS v2.0 standard.
 
+## Projects
 
+#### Azure AKS production environment
+
+> Deployed from zero a full Azure infrastructure with development, staging and production AKS clusters. Utilizing Azure DevOps for CI/CD, Releases and canary testing. Configured HyperScale MSSQL clusters with replicas for zero-downtime database access. Setup Globally distributed CDN for static assets delivery. Secured the k8s clusters with Roles, mTLS (Istio) and best practices.
+
+#### AWS EKS production environment
+
+> Deployed from zero full AWS infrastructure utilizing EKS for development and production clusters. Secured the system in order to be compliant with GDPR and HIPAA. Utilized GitHub actions for continues delivery and releases. Supported HA RDS clusters with read-replicas for zero-downtime database access.
+#### Google Cloud Platform GKE production environment
+
+> Configured and supported multiple GKE clusters and utilized Cloud Functions for CI/CD. 
 ## Skills and technologies
 
 DevOps and Linux system administration
