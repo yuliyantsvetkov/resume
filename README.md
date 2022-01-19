@@ -3,7 +3,7 @@
 
 **Experienced DevOps & System Administrator with over ten years of experience with production environments. Driven by the new technologies and a real solution provider in intense situations with vast experience of automation and infrastructure security.**
 
-* location: Munich, Germany (GMT +1)
+* location: Sofia, Bulgaria (UTC +2/+3)
 * e-mail: yuliyan.tsvetkov@gmail.com
 * mobile: +359 888 755 665 / +49 15 222 122 748
 * github: https://github.com/yuliyantsvetkov
@@ -11,8 +11,26 @@
 
 ## Working experience
 
+### Infrastructure architect @ Omni-Matrix OU
+>June, 2021 - Present
+> Remote and Oslo, Norway
+
+Built the company infrastructure from zero on Amazon Web Services. Designed and deployed the **AWS** infrastructure via **Terraform IaC**. Completed live migration of Lighting Bitcoin network to **EKS** from **EC2** and drove the migration from monolith to microservices architecture.
+
+- Migrated couple million transactions per month to **EKS** from obsolete monolith infrastructure.
+- Designed the CI/CD pipelines.
+- Drove the development teams to use **trunk based development**.
+- Designed and implemented on-call system.
+- Supporting development teams with **microservices** development.
+- Seamlessly integrated **ArgoCD** with **Github Actions**.
+- Worked on **PCI-DSS** compliancy for the **AWS** infrastructure.
+- Closely worked with the **CTO** to implement best practices for integrated infrastructure solutions.
+- Maintaing **Lightning Bitcoin network** of the company.
+- Designed the company support flows.
+- Introduced agile methodology within the company.
+
 ### DevOps engineer @ PayWorks GmbH a.k.a. Visa Corp.
->May, 2018 - present
+>May, 2018 - June 2021
 > Remote and Munich, Germany
 
 Maintaining production EKS clusters. Participating in on-call rotations. Terraforming the **AWS** infrastructure into sophisticated **Terraform IaC**. Building Jenkins jobs for **Terraform** in automation. Creating **Docker** containers and automating infrastructure deployments. Also managing **Rancher** **Cattle** and **k8s** **EKS** clusters
@@ -88,9 +106,11 @@ Supported huge amount of RHEL 5 & 6 Linux HP DL360 Gen 4 servers that are still 
 #### AWS EKS production environment
 
 > Deployed from zero full AWS infrastructure utilizing EKS for development and production clusters. Secured the system in order to be compliant with GDPR and HIPAA. Utilized GitHub actions for continues delivery and releases. Supported HA RDS clusters with read-replicas for zero-downtime database access.
+
 #### Google Cloud Platform GKE production environment
 
 > Configured and supported multiple GKE clusters and utilized Cloud Functions for CI/CD. 
+
 ## Skills and technologies
 
 DevOps and Linux system administration
@@ -98,7 +118,7 @@ DevOps and Linux system administration
 > Comfortable working with any kind of automation, not afraid to learn new products as fast as they are developed.
 
 Programming:
-> Currently learning **Golang** for utilizing its power for CLIs.
+> Currently learning **Golang** for utilizing its power for CLIs and sidecar microservices.
 > Created many **Python** automation and monitoring scripts as well as sophisticated **Selenium** crawlers, and couple of AI bots for handling support cases automatically.
 > Fully comfortable with complex **Bash** scripts for small and even big tasks, but not preferred scripting language.
 
@@ -120,7 +140,7 @@ Monitoring:
 > **Prometheus** + **Grafana**
 
 Databases:
-> MySQL, PostgreSQL, MSSQL, MongoDB and SQLite3 production experience.
+> MySQL, PostgreSQL, MSSQL, MongoDB, Redis and SQLite3 production experience.
 
 API integrations:
 > Feeling comfortable using every API with *some* documentation.
