@@ -11,7 +11,7 @@
 
 ## Working experience
 
-### Infrastructure architect @ Omni-Matrix OU
+### Infrastructure architect @ Omni-Matrix OU - https://omnimatrix.com/
 >June, 2021 - Present
 > Remote and Oslo, Norway
 
@@ -29,7 +29,7 @@ Built the company infrastructure from zero on Amazon Web Services. Designed and 
 - Designed the company support flows.
 - Introduced agile methodology within the company.
 
-### DevOps engineer @ PayWorks GmbH a.k.a. Visa Corp.
+### DevOps engineer @ PayWorks GmbH a.k.a. Visa Corp. - https://visa.com - (Payworks aquired)[https://www.cybersource.com/en-us/solutions/payment-acceptance/payworks.html]
 >May, 2018 - June 2021
 > Remote and Munich, Germany
 
@@ -44,7 +44,7 @@ Maintaining production EKS clusters. Participating in on-call rotations. Terrafo
 - Worked with Helm charts for application deployment on **k8s** clusters.
 - Maintaining ElasticSearch clusters for centralized application logging.
 
-### DevOps engineer/Vulnerability analyst @ Sucuri Security Inc. a.k.a. GoDaddy Inc.
+### DevOps engineer/Vulnerability analyst @ Sucuri Security Inc. a.k.a. GoDaddy Inc. - https://godaddy.com - (Sucuri aquired)[https://sucuri.net]
 > November, 2014 - May, 2018
 > Remote and Los Angeles, USA
 
@@ -56,7 +56,7 @@ Mainly automating the day-to-day tasks and the in-team repeating tasks via **Jen
 -   Author of many security articles and blog posts for the latest web vulnerabilities.
 -   Maintaining ElasticSearch clusters for centralized application logging.
 
-### DevOps engineer @ Cogeco Peer1 hosting 
+### DevOps engineer @ Cogeco Peer1 hosting - https://aptum.com (rebranded)
 > September, 2012 - November, 2014
 > Remote and Sofia, Bulgaria
 
@@ -66,7 +66,7 @@ Mainly automating the day-to-day tasks and the in-team repeating tasks via **Jen
 -   Migrated the old 'Cloud' company system to  **OnApp**.
 -   Migrated the company  **VMware 5.1**  environment to  **VMware 5.5**.
 
-### Team lead/Technical project manager @ Comptel communication/Nokia systems
+### Team lead/Technical project manager @ Comptel communication/Nokia systems - https://nokia.com - Comptel aquired
 > June, 2011 - September, 2012
 > Sofia, Bulgaria and Cairo, Egypt
 
@@ -78,13 +78,13 @@ Mainly automating the day-to-day tasks and the in-team repeating tasks via **Jen
 -   Handled twenty-four hour activities for monitoring of  **TM**  software for new Comptel products.
 -   Handled Comptel/Vodafone meetings for new projects and value added services (**VAS**).
 
-### Infrastructure engineer @ Opencode systems Ltd.
+### Infrastructure engineer @ Opencode systems Ltd. - https://opencode.com/
 > July, 2008 - June, 2011
 > Sofia, Bulgaria and Islamabad, Pakistan
 
 Supported huge amount of RHEL 5 & 6 Linux HP DL360 Gen 4 servers that are still handling more than 200,000 messages per second for the MEA region. I was responsible for software integration within the telecoms environment and the Bare Metal servers deployment.
 
-### System administrator @ Travel Store Maker Ltd.
+### System administrator @ Travel Store Maker Ltd. (non-existing)
 > April, 2008 - July, 2008
 > Sofia, Bulgaria
 
