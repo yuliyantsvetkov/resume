@@ -29,7 +29,7 @@ Built the company infrastructure from zero on Amazon Web Services. Designed and 
 - Designed the company support flows.
 - Introduced agile methodology within the company.
 
-### DevOps engineer @ PayWorks GmbH a.k.a. Visa Corp. - https://visa.com - [Payworks aquired](https://www.cybersource.com/en-us/solutions/payment-acceptance/payworks.html)
+### DevOps engineer @ PayWorks GmbH a.k.a. Visa Corp. - https://visa.com - [Payworks acquired](https://www.cybersource.com/en-us/solutions/payment-acceptance/payworks.html)
 >May, 2018 - June 2021
 > Remote and Munich, Germany
 
@@ -44,7 +44,7 @@ Maintaining production EKS clusters. Participating in on-call rotations. Terrafo
 - Worked with Helm charts for application deployment on **k8s** clusters.
 - Maintaining ElasticSearch clusters for centralized application logging.
 
-### DevOps engineer/Vulnerability analyst @ Sucuri Security Inc. a.k.a. GoDaddy Inc. - https://godaddy.com - [Sucuri aquired](https://sucuri.net)
+### DevOps engineer/Vulnerability analyst @ Sucuri Security Inc. a.k.a. GoDaddy Inc. - https://godaddy.com - [Sucuri acquired](https://sucuri.net)
 > November, 2014 - May, 2018
 > Remote and Los Angeles, USA
 
@@ -66,7 +66,7 @@ Mainly automating the day-to-day tasks and the in-team repeating tasks via **Jen
 -   Migrated the old 'Cloud' company system to  **OnApp**.
 -   Migrated the company  **VMware 5.1**  environment to  **VMware 5.5**.
 
-### Team lead/Technical project manager @ Comptel communication/Nokia systems - https://nokia.com - Comptel aquired
+### Team lead/Technical project manager @ Comptel communication/Nokia systems - https://nokia.com - Comptel acquired
 > June, 2011 - September, 2012
 > Sofia, Bulgaria and Cairo, Egypt
 
