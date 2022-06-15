@@ -1,5 +1,5 @@
 ﻿# Resume of Yuliyan Tsvetkov
-## DevOps engineer
+## DevOps expert/Solution architect
 
 **Experienced DevOps & System Administrator with over ten years of experience with production environments. Driven by the new technologies and a real solution provider in intense situations with vast experience of automation and infrastructure security.**
 
