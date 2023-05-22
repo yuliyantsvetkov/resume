@@ -11,8 +11,14 @@
 
 ## Working experience
 
+### CEO of Smokin Tech OU
+>November, 2018 - Present
+> Sofia, Bulgaria
+
+Providing DevOps consultation services to different set of clients. Ensuring smooth deliverables and architeting Amazon Web Services solutions for various clients around Europe.
+
 ### Infrastructure architect @ Omni-Matrix OU - https://omnimatrix.com/
->June, 2021 - Present
+>June, 2021 - August, 2022
 > Remote and Oslo, Norway
 
 Built the company infrastructure from zero on Amazon Web Services. Designed and deployed the **AWS** infrastructure via **Terraform IaC**. Completed live migration of Lighting Bitcoin network to **EKS** from **EC2** and drove the migration from monolith to microservices architecture.
