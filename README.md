@@ -7,7 +7,7 @@
 * e-mail: yuliyan.tsvetkov@gmail.com
 * mobile: +359 888 755 665 / +49 15 222 122 748
 * github: https://github.com/yuliyantsvetkov
-* https://www.linkedin.com/in/yuliyan-tsvetkov-346aa1174/ (not much info - too many HR bots)
+* linkedin: www.linkedin.com/in/yuliyan-tsvetkov-b05b45254 (noinfo - too many HR bots)
 
 ## Working experience
 
