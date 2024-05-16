@@ -11,7 +11,7 @@
 
 ## Working experience
 
-### Infrastructure architect and Senior DevOps engineer @ Omni-Matrix OU - https://omnimatrix.com/
+### Infrastructure architect and Senior DevOps engineer @ Blockforia LTD. - https://blockforia.com/
 >June, 2021 - Present
 > Remote and Oslo, Norway
 
