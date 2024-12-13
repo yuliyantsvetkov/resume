@@ -1,150 +1,128 @@
-﻿# Resume of Yuliyan Tsvetkov
-## DevOps engineer and Solution architect
+# Resume of Yuliyan Tsvetkov
 
-**Experienced DevOps & Solution architect with over fifteen years of experience with production environments. Driven by the new technologies and a real solution provider in intense situations with vast experience of automation and infrastructure security.**
+## DevOps Expert / Solution Architect
 
-* location: Sofia, Bulgaria (UTC +2/+3)
-* e-mail: yuliyan.tsvetkov@gmail.com
-* mobile: +359 888 755 665
-* github: https://github.com/yuliyantsvetkov
+Experienced DevOps & System Administrator with over 15 years of experience in production environments. Passionate about new technologies and delivering solutions under pressure. Extensive experience in cloud architectures, automation, infrastructure security, and team leadership. Known for maintaining 24/7 systems and driving innovation through modern practices.
 
-## Working experience
+- Location: Sofia, Bulgaria (UTC +2/+3)
+- E-mail: yuliyan.tsvetkov@gmail.com
+- Mobile: +359 888 755 665 / +49 15 222 122 748
+- GitHub: https://github.com/yuliyantsvetkov
 
-### Infrastructure architect and Senior DevOps engineer @ Blockforia LTD. - https://blockforia.com/
->June, 2021 - Present
-> Remote and Oslo, Norway
+## Working Experience
 
-Built the company infrastructure from zero on Amazon Web Services. Designed and deployed the business product infrastructure via **Terraform IaC**. Completed zero downtime migration of Lighting Bitcoin network to **EKS** from **EC2** and drove the application implementation from monolith to microservices architecture.
+### Infrastructure Architect and Senior DevOps Engineer @ Blockforia LTD
 
-- Migrated couple million transactions per month to **EKS** from obsolete monolith infrastructure.
-- Designed the CI/CD pipelines on **Github** actions.
-- Implemented **trunk based development** development for the Development teams.
-- Designed and implemented on-call system.
-- Supporting development teams with **microservices** development using best practices.
-- Seamlessly integrated **ArgoCD** with **EKS**.
-- Worked on **PCI-DSS**, **ISO** and **DORA** compliancy for the **AWS** infrastructure.
-- Closely worked with the **CTO** to implement best practices for integrated infrastructure solutions.
-- Maintaing **Lightning Bitcoin network** of the company.
-- Designed the company support flows.
-- Introduced agile methodology within the company.
+June 2021 – Present
+Remote and Oslo, Norway
 
-### DevOps engineer @ PayWorks GmbH a.k.a. Visa Corp. - https://visa.com - [Payworks acquired](https://www.cybersource.com/en-us/solutions/payment-acceptance/payworks.html)
->May, 2018 - June 2021
-> Remote and Munich, Germany
+- Designed and deployed company-wide infrastructure on AWS using Terraform IaC.
+- Migrated millions of monthly Bitcoin Lightning Network transactions to EKS, transitioning from a monolithic to microservices architecture.
+- Developed and maintained CI/CD pipelines leveraging GitHub Actions and ArgoCD.
+- Ensured PCI-DSS compliance for infrastructure and led security audits.
+- Introduced ETL pipelines for blockchain transaction data processing and reporting.
+- Enhanced team collaboration through Agile practices and trunk-based development.
+- Provided 24/7 system support for production-critical services, ensuring high availability.
+- Gained expertise in deploying and maintaining blockchain nodes on Kubernetes.
+- Implemented centralized logging for multi-tenant EKS systems.
+- Advocated and implemented best practices for distributed systems and infrastructure.
 
-Maintaining production EKS clusters. Participating in on-call rotations. Terraforming the **AWS** infrastructure into sophisticated **Terraform IaC**. Building Jenkins jobs for **Terraform** in automation. Creating **Docker** containers and automating infrastructure deployments. Also managing **Rancher** **Cattle** and **k8s** **EKS** clusters
+### DevOps Engineer @ PayWorks GmbH (now Visa Inc.)
 
-- Migrated the test, stage and production **AWS** infrastructure to **Terraform**.
-- Worked closely with the team to satisfy all requirements for the **IaC** migration.
-- Wrote tons of documentation and created webcasts for internal use.
-- Maintaining production and staging **EKS** clusters.
-- Supporting development teams with **microservices** development.
-- Seamlessly integrated **Terraform** with **Jenkins** jobs.
-- Worked with Helm charts for application deployment on **k8s** clusters.
-- Maintaining ElasticSearch clusters for centralized application logging.
+May 2018 – June 2021
+Remote and Munich, Germany
 
-### DevOps engineer/Vulnerability analyst @ Sucuri Security Inc. a.k.a. GoDaddy Inc. - https://godaddy.com - [Sucuri acquired](https://sucuri.net)
-> November, 2014 - May, 2018
-> Remote and Los Angeles, USA
+- Migrated production, staging, and test environments to Terraform IaC.
+- Managed production EKS clusters and integrated Helm for application deployments.
+- Automated infrastructure tasks using Jenkins, Docker, and Terraform.
+- Supported high-throughput payment systems processing thousands of transactions per second.
+- Provided documentation and training for internal teams, fostering knowledge sharing.
 
-Mainly automating the day-to-day tasks and the in-team repeating tasks via **Jenkins** + **Python** + **Elasticsearch** + **BitBucket Mercurial pipelines**. Actively researching the newest security vulnerabilities on the web and fighting the bad guys with the power of Open Source.
+### DevOps Engineer / Vulnerability Analyst @ Sucuri Security Inc. (now GoDaddy Inc.)
 
--   Maintainer of the team  **Mercurial**  repositories.
--   Maintainer and active developer of the company  **Jenkins**  automation.
--   Creator of  **Selenium**  automation tools for active research.
--   Author of many security articles and blog posts for the latest web vulnerabilities.
--   Maintaining ElasticSearch clusters for centralized application logging.
+November 2014 – May 2018
+Remote and Los Angeles, USA
 
-### DevOps engineer @ Cogeco Peer1 hosting - https://aptum.com (rebranded)
-> September, 2012 - November, 2014
-> Remote and Sofia, Bulgaria
+- Automated workflows using Jenkins, Python, and Bitbucket Mercurial pipelines.
+- Maintained and scaled ElasticSearch clusters for centralized logging.
+- Authored tools for vulnerability research, improving team efficiency and response times.
 
--   Initiator and creator of the  **PCI-DSS v2.0**  company environemnt.
--   Mainanter of the whole  **VMware**  Shazam infrastructure.
--   Creator of various  **Kickstart**  server deployment recipes.
--   Migrated the old 'Cloud' company system to  **OnApp**.
--   Migrated the company  **VMware 5.1**  environment to  **VMware 5.5**.
+### DevOps Engineer @ Cogeco Peer1 Hosting (now Aptum)
 
-### Team lead/Technical project manager @ Comptel communication/Nokia systems - https://nokia.com - Comptel acquired
-> June, 2011 - September, 2012
-> Sofia, Bulgaria and Cairo, Egypt
+September 2012 – November 2014
+Remote and Sofia, Bulgaria
 
-- Lead a team of 7 Java and Python developers for the Comptel software development for the client.
--   Completed deployment of 48  **Solaris**  servers with the company software that still handle more than one billion transactions each day.
-- Discovered and used the **Solaris Zones** for scaling the company software.
--   Conducted five on-site trainings of the post-support team Vodafone Egypt engineers.
--   Deployed the newest Comptel Corporation  **TM**(**Telecom Mediation**)  software over 128 nodes.
--   Handled twenty-four hour activities for monitoring of  **TM**  software for new Comptel products.
--   Handled Comptel/Vodafone meetings for new projects and value added services (**VAS**).
+- Built PCI-DSS-compliant environments and migrated legacy infrastructure to modern platforms.
+- Maintained VMware environments and introduced automated deployment recipes.
 
-### Infrastructure engineer @ Opencode systems Ltd. - https://opencode.com/
-> July, 2008 - June, 2011
-> Sofia, Bulgaria and Islamabad, Pakistan
+### Other Roles
 
-Supported huge amount of RHEL 5 & 6 Linux HP DL360 Gen 4 servers that are still handling more than 200,000 messages per second for the MEA region. I was responsible for software integration within the telecoms environment and the Bare Metal servers deployment.
+- Technical Project Manager @ Comptel / Nokia – Delivered large-scale telecom solutions handling billions of transactions daily.
+- Infrastructure Engineer @ Opencode Systems – Deployed and supported high-traffic messaging systems for MEA region.
+- System Administrator @ Travel Store Maker – Automated backups and monitoring for critical reservation systems.
 
-### System administrator @ Travel Store Maker Ltd. (non-existing)
-> April, 2008 - July, 2008
-> Sofia, Bulgaria
+## Key Projects
 
--   Supported and maintained the Galileo reservation RHEL 5 servers.
--   Created multiple tools for backup and server rooms monitoring automation.
+### Blockchain Infrastructure
 
-## Volunteer at
-- #### New Bulgarian University (until 2018)
-	>  Teaching a class for Security of systems and data.
-- #### Center of Internet Security (until 2012)
-	>  Developed the RHEL 5 & 6 security benchmarks for PCI-DSS v2.0 standard.
+- Deployed Kubernetes-based blockchain node clusters for Bitcoin, Ethereum, and other blockchain networks.
+- Implemented high-availability configurations for blockchain nodes, ensuring minimal downtime.
 
-## Projects
+### Machine Learning (ML) Pipelines
 
-#### Azure AKS production environment
+- Designed ML workflows for anomaly detection in system metrics and transactional data.
+- Integrated LLMs for customer support automation and knowledge base enhancements.
 
-> Deployed from zero a full Azure infrastructure with development, staging and production AKS clusters. Utilizing Azure DevOps for CI/CD, Releases and canary testing. Configured HyperScale MSSQL clusters with replicas for zero-downtime database access. Setup Globally distributed CDN for static assets delivery. Secured the k8s clusters with Roles, mTLS (Istio) and best practices.
+### ETL Pipelines
 
-#### AWS EKS production environment
+- Architected and deployed ETL pipelines for large-scale data ingestion and transformation.
+- Optimized pipeline performance for multi-terabyte daily workloads.
 
-> Deployed from zero full AWS infrastructure utilizing EKS for development and production clusters. Secured the system in order to be compliant with GDPR and HIPAA. Utilized GitHub actions for continues delivery and releases. Supported HA RDS clusters with read-replicas for zero-downtime database access.
+### Multi-Cloud Environments
 
-#### Google Cloud Platform GKE production environment
+- Built production-ready clusters on AWS EKS, Azure AKS, and Google GKE, focusing on scalability and security.
+- Automated CI/CD with tools like GitHub Actions, ArgoCD, and Azure DevOps.
 
-> Configured and supported multiple GKE clusters and utilized Cloud Functions for CI/CD. 
+## Skills and Technologies
 
-## Skills and technologies
+### DevOps and Cloud Architectures
 
-DevOps and Linux system administration
-> Feeling comfortable with `root` at any time, but prefering `sudo`. Good reverse engineering skills and loving to optimize and automate the systems as much as possible. Never leaving a server without free disk space.
-> Comfortable working with any kind of automation, not afraid to learn new products as fast as they are developed.
+- Strong expertise in AWS, Azure, and GCP.
+- Hands-on experience with Kubernetes (EKS, AKS, GKE) and container orchestration.
+- Skilled in Terraform, Ansible, and CloudFormation for infrastructure automation.
 
-Programming:
-> Currently learning **Golang** for utilizing its power for CLIs and sidecar microservices.
-> Created many **Python** automation and monitoring scripts as well as sophisticated **Selenium** crawlers, and couple of AI bots for handling support cases automatically.
-> Fully comfortable with complex **Bash** scripts for small and even big tasks, but not preferred scripting language.
+### Programming
 
-Clouds:
-> **AWS** - knowing most of the **Amazon web services** products. Feeling comfortable with the **console** and the **CLI** as well.
-> **GCP** - Deployed many compute servers and some **Kubernetes** clusters. Still in active learning of the platform.
-> **Azure** - Provisioned and supported AKS clusters handling more than 3000 transactions per second. Worked with highly utilized HyperScale MSSQL databases and CDNs.
-> **DigitalOcean** - Always keeping droplets up & running with the lowest cost possible, but never sacrificing the performance.
+- Golang: Developed Kubernetes operators and CLI tools.
+- Node.js: Expertise in supporting developers, building microservices, and debugging HTTP and REST applications.
+- Python: Built automation scripts, monitoring tools, and AI bots.
+- Bash: Proficient in creating efficient automation scripts.
 
-Provisioning:
-> **Ansible** - loving the playbooks there. Created a many provisioning playbooks and even using it for small monitoring system with the power of **Bash**.
-> **SaltStack** - Comfortable with the states, but I've not used it for the last year and some *remembering* is needed.
+### Monitoring and Security
 
-IaC:
-> **Terraform** - almost an expert of modules, remote states, data sources and always following the best practices.
+- Prometheus, Grafana, and VictoriaMetrics for metrics.
+- Implemented best practices for PCI-DSS, ISO, and DORA compliance.
 
-Monitoring:
-> **Nagios**
-> **Prometheus** + **Grafana**
+### Databases
 
-Databases:
-> MySQL, PostgreSQL, MSSQL, MongoDB, Redis and SQLite3 production experience.
+- Extensive experience with PostgreSQL, MySQL, MongoDB, and Redis.
 
-API integrations:
-> Feeling comfortable using every API with *some* documentation.
+## Additional Highlights
 
-## Travel 
--   EU work permit holder/EU resident
--   B1/B2 US visa holder
--   eTA for Canada
+- Perfect match for working in wide varieties of teams, supporting developers with extensive technical knowledge.
+- Exceptional at identifying and resolving bugs, ensuring system reliability.
+- Partnering with C-level executives to deliver people and technology solutions.
+
+## Volunteer Experience
+
+- New Bulgarian University: Taught "System and Data Security".
+- Center for Internet Security: Contributed to RHEL security benchmarks for PCI-DSS standards.
+
+## Travel and Work Authorization
+
+- EU work permit holder / EU resident
+- B1/B2 US visa holder
+- eTA for Canada
+
+**References available upon request.**
+
