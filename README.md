@@ -1,13 +1,12 @@
 ﻿# Resume of Yuliyan Tsvetkov
-## DevOps expert/Solution architect
+## DevOps engineer and Solution architect
 
-**Experienced DevOps & System Administrator with over ten years of experience with production environments. Driven by the new technologies and a real solution provider in intense situations with vast experience of automation and infrastructure security.**
+**Experienced DevOps & Solution architect with over fifteen years of experience with production environments. Driven by the new technologies and a real solution provider in intense situations with vast experience of automation and infrastructure security.**
 
 * location: Sofia, Bulgaria (UTC +2/+3)
 * e-mail: yuliyan.tsvetkov@gmail.com
-* mobile: +359 888 755 665 / +49 15 222 122 748
+* mobile: +359 888 755 665
 * github: https://github.com/yuliyantsvetkov
-* linkedin: www.linkedin.com/in/yuliyan-tsvetkov-b05b45254 (noinfo - too many HR bots)
 
 ## Working experience
 
@@ -15,15 +14,15 @@
 >June, 2021 - Present
 > Remote and Oslo, Norway
 
-Built the company infrastructure from zero on Amazon Web Services. Designed and deployed the **AWS** infrastructure via **Terraform IaC**. Completed live migration of Lighting Bitcoin network to **EKS** from **EC2** and drove the migration from monolith to microservices architecture.
+Built the company infrastructure from zero on Amazon Web Services. Designed and deployed the business product infrastructure via **Terraform IaC**. Completed zero downtime migration of Lighting Bitcoin network to **EKS** from **EC2** and drove the application implementation from monolith to microservices architecture.
 
 - Migrated couple million transactions per month to **EKS** from obsolete monolith infrastructure.
-- Designed the CI/CD pipelines.
-- Drove the development teams to use **trunk based development**.
+- Designed the CI/CD pipelines on **Github** actions.
+- Implemented **trunk based development** development for the Development teams.
 - Designed and implemented on-call system.
-- Supporting development teams with **microservices** development.
-- Seamlessly integrated **ArgoCD** with **Github Actions**.
-- Worked on **PCI-DSS** compliancy for the **AWS** infrastructure.
+- Supporting development teams with **microservices** development using best practices.
+- Seamlessly integrated **ArgoCD** with **EKS**.
+- Worked on **PCI-DSS**, **ISO** and **DORA** compliancy for the **AWS** infrastructure.
 - Closely worked with the **CTO** to implement best practices for integrated infrastructure solutions.
 - Maintaing **Lightning Bitcoin network** of the company.
 - Designed the company support flows.
