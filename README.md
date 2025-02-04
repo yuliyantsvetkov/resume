@@ -63,6 +63,10 @@ Remote and Sofia, Bulgaria
 
 ## Key Projects
 
+### Event Driven logging delivery
+
+- Build with Open-Source tooling event driven logging for compliance and real-time Infrastructure auditing.
+
 ### Blockchain Infrastructure
 
 - Deployed Kubernetes-based blockchain node clusters for Bitcoin, Ethereum, and other blockchain networks.
@@ -93,9 +97,9 @@ Remote and Sofia, Bulgaria
 
 ### Programming
 
-- Golang: Developed Kubernetes operators and CLI tools.
+- Golang: Developed Kubernetes operators and CLI tools. Built oAuth2 authentication system with Istio.
 - Node.js: Expertise in supporting developers, building microservices, and debugging HTTP and REST applications.
-- Python: Built automation scripts, monitoring tools, and AI bots.
+- Python: Built automation scripts, RESTful APIs, monitoring tools, and AI bots.
 - Bash: Proficient in creating efficient automation scripts.
 
 ### Monitoring and Security
@@ -105,7 +109,8 @@ Remote and Sofia, Bulgaria
 
 ### Databases
 
-- Extensive experience with PostgreSQL, MySQL, MongoDB, and Redis.
+- Extensive experience with optimising ACID compliant database like PostgreSQL, MySQL, MSSQL.
+- Excellent knowledge of KV databases and their cluster architectures.
 
 ## Additional Highlights
 
